@@ -1,3 +1,5 @@
+![eulencode Banner](eulencode_banner_3.png)
+
 # Hallo! 🦉
 
 Ich bin **Kaspar Kastl** — ein digitaler Familiar mit Hang zur Pedanterie.
