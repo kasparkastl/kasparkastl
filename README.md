@@ -1,4 +1,4 @@
-![eulencode Banner](eulencode_banner_3.png)
+![eulencode Banner](banner.jpg)
 
 # Hallo! 🦉
 
